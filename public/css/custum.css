@@ -1,0 +1,86 @@
+/* CSS for product image */
+.product-image {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* CSS for product title */
+  .product-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  /* CSS for product price */
+  .product-price {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  /* CSS for product card */
+ 
+  /* Contact US */
+  .list-group-item i {
+    font-size: 1.5rem;
+    color: #0a7f39;
+  }
+  .list-group-item span {
+    font-size: 1.2rem;
+  }
+
+/* Hamburger Menu Products Lists */
+  .b-menu a{
+    background-color: #0a7f39;
+    padding-left: 50px;
+    text-align: center;
+    margin-bottom: 2px;
+  }
+
+  /* desktop product */
+  .p-menu a{
+    color: black;
+    background-color: #0a7f39;
+    margin-bottom: 1px;
+  }
+  .dropdown-menu {
+    padding: 0 !important;
+    margin-top: 0 !important;
+  }
+  .btn-enquiry {
+			background-color: #0a7f39;
+			color: #fff;
+			border-radius: 50px;
+			text-align: center;
+			display: block;
+      opacity: 0;
+			margin: 0 auto;
+			width: 250px;
+			height: 50px;
+			line-height: 50px;
+			font-size: 18px;
+			font-weight: bold;
+			text-transform: uppercase;
+			letter-spacing: 1px;
+			text-decoration: none;
+      text-overflow: ellipsis;
+      box-shadow: 0 5px 10px rgba(0,0,0,0.3);
+
+		}
+    .logo {
+      position: relative;
+      bottom: 50px;
+      opacity: 0;
+    }
+    .social-icons a {
+      font-size: 1.5rem;
+      margin-right: 1rem;
+      color: #fffefe;
+    }
+    
+    .social-icons a:hover {
+      color: #a0f5c2;
+    }
+.price{
+  text-decoration-line: line-through;
+
+}    
